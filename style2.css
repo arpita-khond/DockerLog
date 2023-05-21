@@ -56,3 +56,17 @@ body{
 .box input[type="submit"]:hover{
     background: #ffc400ec;
 }
+
+.box input[type="submit"]
+{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid #ffc400ec;
+    padding: 14px 35px;
+    width: 220px;
+    outline: none;
+}
+
